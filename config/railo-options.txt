@@ -1,0 +1,14 @@
+#https://github.com/getrailo/railo/wiki/Installation-installerdocumentation-linunattended
+railopass=password
+installdir=/opt/railo
+tomcatport=8888
+tomcatshutdownport=8005
+tomcatajpport=8009
+systemuser=root
+startatboot=true
+installconn=true
+apachecontrolloc=/usr/sbin/apachectl
+apachemodulesloc=
+apacheconfigloc=
+apachelogloc=
+installiis=true
